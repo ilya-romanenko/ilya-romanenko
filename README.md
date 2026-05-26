@@ -7,10 +7,10 @@ AI-powered tools by night.
 
 ### 🛠 Tech stack
 
-**Backend** · C# · ASP.NET Core · Entity Framework Core · MediatR (CQRS) · FluentValidation
-**Frontend** · Blazor · MudBlazor
-**Data / AI** · Python · ML forecasting · portfolio optimization
-**Tools** · Git · SQL Server · Azure · Docker
+**Backend** · C# · ASP.NET Core · Entity Framework Core · MediatR (CQRS) · FluentValidation   
+**Frontend** · Blazor · MudBlazor   
+**Data / AI** · Python · ML forecasting · portfolio optimization   
+**Tools** · Git · SQL Server · Azure · Docker   
 
 ---
 
