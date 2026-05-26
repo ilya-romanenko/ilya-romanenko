@@ -29,4 +29,4 @@ Live at [aici.pro](https://aici.pro)
 
 ### 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [ORCID](https://orcid.org/0009-0001-1596-5898) · [aici.pro](https://aici.pro)
+[LinkedIn](www.linkedin.com/in/ilya-romanenko16) · [ORCID](https://orcid.org/0009-0001-1596-5898) · [aici.pro](https://aici.pro)
