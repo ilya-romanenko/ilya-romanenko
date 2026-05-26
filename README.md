@@ -1,7 +1,9 @@
-## Hi, I'm Ilya 👋
+## Hi, I'm Ilya 👋 
 
-.NET / Blazor developer building enterprise apps by day,
+.NET / Blazor developer with 3 years of experience building enterprise apps by day,
 AI-powered tools by night.
+
+📍 Slovakia · Open to remote opportunities
 
 ---
 
@@ -26,6 +28,8 @@ Live at [aici.pro](https://aici.pro)
 - Token-based API access
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilya-romanenko&show_icons=true&hide_border=true&theme=dark)
 
 ### 📫 Connect
 
