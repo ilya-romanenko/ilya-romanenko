@@ -1,8 +1,8 @@
 ## Hi, I'm Ilya 👋 
 
-.NET / Blazor developer with 3 years of experience building enterprise apps by day,
-AI-powered tools by night. 
-Slovakia · Open to remote opportunities
+.NET / Blazor developer with 3 years of experience building enterprise apps by day,   
+AI-powered tools by night.    
+Slovakia · Open to remote opportunities   
 
 ---
 
