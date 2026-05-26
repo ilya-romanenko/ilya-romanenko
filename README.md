@@ -28,8 +28,6 @@ Live at [aici.pro](https://aici.pro)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilya-romanenko&show_icons=true&hide_border=true&count_private=true&theme=github_dark)
-
 ### 📫 Connect
 
 [LinkedIn](www.linkedin.com/in/ilya-romanenko16) · [ORCID](https://orcid.org/0009-0001-1596-5898) · [aici.pro](https://aici.pro)
