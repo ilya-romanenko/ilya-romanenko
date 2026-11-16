@@ -1,8 +1,8 @@
 ## Hi, I'm Ilya 👋 
 
-.NET / Blazor developer with 3 years of experience building enterprise apps by day,   
+.NET / Blazor developer with more than 5 years of experience building enterprise apps by day,   
 AI-powered tools by night.    
-Slovakia · Open to remote opportunities   
+Slovakia · Open to remote and hybrid opportunities   
 
 ---
 
@@ -20,7 +20,6 @@ Slovakia · Open to remote opportunities
 #### [AI Crypto Index (AICI)](https://github.com/ilya-romanenko/aici)
 AI-driven cryptocurrency index — data ingestion, ML forecasting,
 portfolio optimization & backtesting.
-Live at [aici.pro](https://aici.pro)
 
 - Published index weights with transparent methodology
 - Live vs Backtest separation
@@ -30,4 +29,4 @@ Live at [aici.pro](https://aici.pro)
 
 ### 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/ilya-romanenko16) · [ORCID](https://orcid.org/0009-0001-1596-5898) · [aici.pro](https://aici.pro)
+[LinkedIn](www.linkedin.com/in/ilya-romanenko16)
